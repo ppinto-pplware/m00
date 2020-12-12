@@ -1,0 +1,23 @@
+{
+  "name": "m00",
+  "version": "1.0.0",
+  "description": "primeira app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppinto-pplware/m00.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mcm"
+  ],
+  "author": "Pedro Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppinto-pplware/m00/issues"
+  },
+  "homepage": "https://github.com/ppinto-pplware/m00#readme"
+}
